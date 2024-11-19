@@ -1,4 +1,4 @@
-# Privacy_Policy_for_Android
+# Privacy_Policy_for_Android - (로폼을 통해 작성되었음)
 
 # 개인정보처리방침
 <h2>제1조(목적)</h2>
